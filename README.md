@@ -7,4 +7,5 @@
 
 회원가입 및 로그인
 login as doctor - 예약 조회, 환자 차트 관리 등
+
 login as patient - 의사 조회, 예약, 예약 조회 등
